@@ -40,7 +40,7 @@ The Pedro Analytics dashboard is divided into several tabs, each serving a speci
 
 1. **Revenues Overview**
     - Provides an overview of your revenues.
-    - [Documentation](#)
+(./images/infrastructures.PNG)
 
 2. **Expenses Overview**
     - Summarizes your expenses.
@@ -76,7 +76,7 @@ To get started with Pedro Analytics, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/pedro-analytics.git
+    git clone https://github.com/Lorenzo1Damiani2/pedro-analytics.git
     ```
 
 2. **Install the required dependencies**:
@@ -99,5 +99,5 @@ Once set up, the data will be automatically retrieved, processed, and updated in
 
 For any questions or support, please contact:
 
-- **Pedro Analytics Support**: [support@pedroanalytics.com](mailto:support@pedroanalytics.com)
+- **Pedro Analytics Support**: [damiani.lorenzo@alice.it](mailto:damiani.lorenzo@alice.it)
 - **GitHub Issues**: Feel free to open an issue on this repository for any bugs or feature requests.
