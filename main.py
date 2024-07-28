@@ -32,10 +32,10 @@ def hello_world(request):
     configuration.access_token = "a/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWYiOiJ4SXkxRzBpdjZKSFNaU0prN2M5eEJHbjBjRDBwakU2WSJ9.BsiVxzGJJs67gm2qQTVIphr4AQSeuo1ErPaViEDRoIs"
 
     # for this example we define the token as string, but you should have obtained it in the previous steps
-    token = "a/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWYiOiJ4SXkxRzBpdjZKSFNaU0prN2M5eEJHbjBjRDBwakU2WSJ9.BsiVxzGJJs67gm2qQTVIphr4AQSeuo1ErPaViEDRoIs"
+    token = "*****"
 
     # these parameters are usually retrieved through our APIs or stored in a DB
-    company_id = 716282
+    company_id = "****"
 
     # fetch invoices from API of fattureincloud
     df_invoices = fetch_all_invoices(token, company_id)
