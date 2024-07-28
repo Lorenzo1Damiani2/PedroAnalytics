@@ -1,0 +1,8 @@
+pymysql
+Flask==2.2.5
+mysql-connector-python==8.0.33
+pandas==2.2.2
+numpy==1.26.4
+sqlalchemy==2.0.30
+requests==2.31.0
+fattureincloud-python-sdk==2.0.20
