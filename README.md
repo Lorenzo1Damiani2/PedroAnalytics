@@ -27,7 +27,7 @@ The goal of Pedro Analytics is to streamline your business intelligence processe
 
 The following diagram provides a panoramic view of the Pedro Analytics infrastructure:
 
-![Infrastructure Flow](./images/path-to-infrastructures.PNG)
+![Infrastructure Flow](./images/infrastructures.PNG)
 
 1. **Google Cloud Functions**: A Python script runs every 24 hours.
 2. **API Call**: Python retrieves data from FattureInCloud.it via an API call.
