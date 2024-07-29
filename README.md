@@ -44,31 +44,30 @@ The Pedro Analytics dashboard is divided into several tabs, each serving a speci
 
 2. **Expenses Overview**
     - Summarizes your expenses.
-    - [Documentation](#)
+![Expenses Overview](./images/ExpensesOverview.png)
 
 3. **Margin Analysis by Time**
     - Analyzes margins over different time periods.
-    - [Documentation](#)
+![Margins](./images/Margins.png)
 
 4. **Margin Analysis by Item**
     - Breaks down margin analysis by item.
-    - [Documentation](#)
 
 5. **Forecasts with AI**
-    - Utilizes AI to forecast future trends.
-    - [Documentation](#)
+    - Utilizes AI (facebook prophet) to forecast future trends.
+![Forecasts with AI](./images/ForecastswithAI.png)
 
 6. **Forecasts Simulator**
     - Allows simulation of different forecasting scenarios.
-    - [Documentation](#)
+![Forecasts Simulator](./images/ForecastsSimulator.png)
 
 7. **Customer Segmentation: RFM**
     - Segment customers using RFM analysis.
-    - [Documentation](#)
+![RFM](./images/RFM.png)
 
 8. **Customer Segmentation: Cohort Analysis**
     - Provides cohort analysis for customer segmentation.
-    - [Documentation](#)
+![Cohorts Analysis](./images/CohortsAnalysis.png)
 
 ## Getting Started
 
