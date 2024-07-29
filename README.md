@@ -40,7 +40,7 @@ The Pedro Analytics dashboard is divided into several tabs, each serving a speci
 
 1. **Revenues Overview**
     - Provides an overview of your revenues.
-![Revenues Overview](./images/RevenuesOverview.PNG)
+![Revenues Overview](./images/RevenuesOverview.png)
 
 2. **Expenses Overview**
     - Summarizes your expenses.
